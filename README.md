@@ -53,10 +53,11 @@
 
 
 ## Output:
+![empd1](https://github.com/AJAYASWIN-M/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118679692/ace9d651-eb87-475b-b74d-47a0eda512fc)
 
 
-### Name:
-### Register Number: 
+### Name: AJAY ASWIN M
+### Register Number:21222224005
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
